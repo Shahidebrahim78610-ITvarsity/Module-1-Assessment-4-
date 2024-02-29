@@ -1,0 +1,39 @@
+h1{
+    font-family: cursive;
+    color: white;
+    align-content: center;
+}
+
+P{
+    font-family: Helvetica,sans-serif;
+    color: white;
+    font-size: 25px;
+}
+
+a{
+    font-family: cursive;
+    font-size: 25px;
+    color: white;
+}
+
+td{
+    font-family: cursive;
+    font-size: 30px;
+    color: white;
+}
+
+th{
+    font-family: Helvetica,sans-serif;
+    font-size: 25px;
+    color: ghostwhite;
+}
+
+tr{
+    column-fill: balance;
+}
+
+tr:hover{
+    background-image: url(images/wp4551749.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
